@@ -1,0 +1,6 @@
+Rencana untuk update web site info
+
+
+- Query untuk SPL agar lebih cepat
+- Perbaiki Fitur untuk Export data
+- Buat Template untuk User dan Admin yang berbeda
